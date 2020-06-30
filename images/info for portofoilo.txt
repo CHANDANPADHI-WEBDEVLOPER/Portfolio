@@ -1,0 +1,47 @@
+Good morning all of u 
+I m chandan Kumar Padhi from jajpur ,I have completed my betch from tite under bput University,I have done my intermediate Hi-Tech +2sc college kuakhia and also my 10th uchs, arthanga.I am a self-starter with strong interpersonal skill.I work efficiently both as an individual as well as with team .I have done my apprenticeship training in optcl as graduate Trainee engineer ..my family consist of 3mebers my father is business man nd my mother is house wife .my strength i m an honest and hard-working positive attitude towards my career and my future
+My weakness i trust people very quickly.
+My short term goal reputed company like that your company.
+
+
+
+
+
+about-me:
+I am a self-starter with strong interpersonal skill.I work efficiently both as an individual as well as with team .
+my strength i m an honest and hard-working positive attitude towards my career and my future.
+
+skill--:l
+
+Expert in developing Responsive & Interactive websites|Expert in CSS3, HTML5, Bootstrap, and Angular JS|Very good knowledge of AMP, JavaScript, and JQuery
+
+
+                                                                                              OUR SERVICE
+unique:
+Referring to your corporate identity, we design a unique website made to measure for your company. The development takes place according to our motto: Simple – Efficient – up to date!.
+
+
+We create brands and logos, which uniquely represent your company and remain well anchored in the minds of all target groups. Pretty is standard –  Unique is crucial!
+
+
+different layouts:
+A layout defines the structure for a user interface in your app, such as in an activity. All elements in the layout are built using a hierarchy of View and ViewGroup objects. A View usually draws something the user can see and interact with. Whereas a ViewGroup is an invisible container that defines the layout structure for View and other ViewGroup objects.
+
+Declaring your UI in XML allows you to separate the presentation of your app from the code that controls its behavior. Using XML files also makes it easy to provide different layouts for different screen sizes and orientations
+
+
+Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD.[1] Content, design and performance are necessary across all devices to ensure usability and satisfaction.
+
+simple:
+Make It Simple is full of quick and easy sewing projects to help you get your creative fix, no matter how busy you are
+
+
+Simplicity is more than just a buzzword. To some, it’s a way of life. The Interactive Design Foundation says that in user experience and graphic design, it’s a philosophy that encourages designers to create websites, graphics, and other elements while keeping a user’s ultimate goals in mind. As the internet grows up more users value simplicity in web design. Learn how to keep it simple and make your design successful.
+
+
+testing:
+Clients choose Perfect QA because we are the very best at what we do. We offer a ... testing services and solutions with our own designed and developed
+
+
+options:
+Get the procedure on how to switch between the Advanced Mode UI and Classic Mode UI in Worry-Free Business Security Services (WFBS-SVC) ...  customers have the option to switch to Advanced Mode UI
